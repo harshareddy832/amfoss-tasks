@@ -1,3 +1,3 @@
 # amfoss-tasks
-#Task 1:
-    Initially I got it in another system then I tried in my personal system but I didn't get any final message like "It's Done". But I starred everyone.
+#Task 2:
+    It didn't take much time to complete this programming task as we have python as our core subject.
