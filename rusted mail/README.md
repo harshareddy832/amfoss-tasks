@@ -25,7 +25,7 @@ These alternative special characters may be used with certain restrictions but a
 
 Because an organization or mailbox provider may restrict the use of special characters even though they are technically valid, it is best to minimize the use of special characters in recipient names. 
 
-Although recipient names are technically case sensitive, most mailbox providers and organizations accept upper and lower case letters to indicate the same user (for example, JOHNDOE@domainsample.com is the same as johndoe@domainsample.com).
+Although recipient names are technically case sensitive, most mailbox providers and organizations accept upper and lower case letters to indicate the same user .
 
 account@domain
 
