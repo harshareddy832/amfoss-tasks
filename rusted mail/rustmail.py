@@ -8,4 +8,4 @@ def isValidEmail(email):
 if isValidEmail("example@gmail.com") == True :
     print ("This is a valid email address")
 else:
-    print ("This is not a valid email address")
+    print ("This is an invalid email address")
