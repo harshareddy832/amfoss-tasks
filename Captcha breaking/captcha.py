@@ -15,6 +15,6 @@ elif b=="*":
 elif b=="/":
 	result=a/c
 else:
-	result="can't be done"
+	result="This is beyond basic mathematical operations."
 print(result)  
 	
