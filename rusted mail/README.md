@@ -50,3 +50,5 @@ Common top-level domains are:
 
 THE LINK PROVIDED AS HINT HELPED IN FINISHING THIS TASK:
 https://docs.rs/regex/1.1.9/regex/
+emailvalidation.py is the programme which validates email addresses 
+rustmail.rs and rustmail.py are those which I took as reference.
