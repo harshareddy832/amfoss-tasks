@@ -1,11 +1,11 @@
 Tasks completed:
-  Task 1
-  Task 2
-  Task 3
-  Task 7
-  Task 8
-  Task 9
-  Task 14
+  Task 1,
+  Task 2,
+  Task 3,
+  Task 7,
+  Task 8,
+  Task 9,
+  Task 14.
 
 
 
@@ -16,8 +16,8 @@ Tasks completed:
 
 
 Tasks partially completed:
-  Task 10
-  Task 13
+  Task 10,
+  Task 13.
 
 
 
@@ -28,9 +28,9 @@ Tasks partially completed:
 
 
 Tasks completely pending:
-  Task 4
-  Task 5
-  Task 6
-  Task 11
-  Task 12
+  Task 4,
+  Task 5,
+  Task 6,
+  Task 11,
+  Task 12.
   
