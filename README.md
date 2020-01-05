@@ -6,9 +6,27 @@ Tasks completed:
   Task 8
   Task 9
   Task 14
+
+
+
+
+
+
+
+
+
 Tasks partially completed:
   Task 10
   Task 13
+
+
+
+
+
+
+
+
+
 Tasks completely pending:
   Task 4
   Task 5
