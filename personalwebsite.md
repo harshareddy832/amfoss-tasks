@@ -1,3 +1,1 @@
-I faced many problems while doing this task like an error named Faraday::Client error which troubled me in hosting the server but the site is published by github and the link is below:
-Link: https://harshareddy832.github.io/
-I tried to make it simple.
+I tried this by following the given instructions but I faced some problems like faraday::client error but my site was hosted as a github page by then but I couldn't edit my webpage then after learning a bit of html I recreated my webpage adding images and designed it by linking it to my github and social media like Instagram.
